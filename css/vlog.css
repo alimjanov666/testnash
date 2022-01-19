@@ -1,0 +1,157 @@
+.sayt-logo {
+  backdrop-filter: #fff;
+}
+.GREEN71link {
+  background-color: chocolate;
+  position: static;
+  width: 107px;
+  height: 15px;
+  left: 24px;
+  top: 12px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 0.5px;
+  text-decoration: none;
+
+  color: #fff;
+
+}
+
+.navqismi {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+text-decoration: none;
+color: black;
+}
+
+.backgroundmainfon {
+background-color: rgb(48, 48, 48);
+color: #fff;
+}
+.hero-content {
+width: 390px;
+}
+
+.heroimg {
+width: 510px;
+}
+
+.hero-hr {
+width: 80px;
+height: 3px;
+background-color: chocolate;
+}
+
+.hero-heading {
+  font-size: 40px;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+}
+
+.reklamasi {
+  font-weight: normal;
+font-style: normal;
+font-style: 16px;
+line-height: 150%;
+}
+
+.sizetext {
+width: 340px;
+}
+
+.features-heading {
+  width: 440px;
+  font-size: 72px;
+line-height: 1.2;
+letter-spacing: 0.5;
+}
+
+.feature-icon-wrapper {
+  width: 100;
+  height: 100;
+  background-color:#fff;
+
+}
+
+.freature-title {
+ font-size: 24px;
+ line-height: 1.2;
+ letter-spacing: 0.5;
+}
+
+.feature-info {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.5;
+
+}
+
+.promo {
+background-color: rgba(33, 33, 33, 0.872);
+color: blanchedalmond;
+text-decoration: none;
+}
+
+.promocontent {
+  width: 440px;
+
+}
+
+.promoheading {
+  font-size: 40px;
+  line-height: 48px;
+
+}
+
+.promo-text {
+  font-size: 16px;
+  line-height: 1.5;
+
+}
+
+.promohighlight {
+  color: orangered;
+
+}
+
+.promo-img {
+  width: 440px;
+  height: 440px;
+  object-fit: cover;
+
+}
+
+.site-footer {
+  background-color: #f8f8f8;
+
+}
+
+.footer-hr {
+  height: 2px;
+background-color: rgb(37, 36, 32, 0.5);
+}
+
+ul a {
+  text-decoration: none;
+color: #252420;
+font-size: 16px;
+line-height: 19px;
+}
+
+
+.list-promo {
+  list-style-type: none;
+width: 224px;
+
+
+
+}
